@@ -130,13 +130,13 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     quote: "The compliance and billing guidance we received was invaluable. They navigated the complexities with ease, ensuring our practice was not only compliant but also financially optimized. A true partner.",
-    name: "Mark Jennings",
+    name: "Martha Jennings",
     title: "Practice Manager, Oakside Primary Care",
     avatarUrl: "https://i.pravatar.cc/100?u=mark",
   },
   {
     quote: "From surgical technology assessment to deployment, their team was professional, knowledgeable, and incredibly efficient. Our new diagnostic equipment has elevated our standard of care.",
-    name: "Dr. Ben Carter",
+    name: "Dr. Bernadette Carter",
     title: "Chief of Surgery, Ridgeway Surgical Center",
     avatarUrl: "https://i.pravatar.cc/100?u=ben",
   },
